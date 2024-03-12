@@ -2179,9 +2179,9 @@ function showList(array $employees): void
 This is also available in other languages:
 
 * :cn: **Chinese:**
-   * [php-cpm/clean-code-php](https://github.com/yukikenzo/clean-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :ru: **Russian:**
-   * [peter-gribanov/clean-code-php](https://github.com/peter-gribanov/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-code-php)
 * :es: **Spanish:**
    * [fikoborquez/clean-code-php](https://github.com/fikoborquez/clean-code-php)
 * :brazil: **Portuguese:**
