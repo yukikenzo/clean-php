@@ -2181,29 +2181,29 @@ This is also available in other languages:
 * :cn: **Chinese:**
    * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :ru: **Russian:**
-   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :es: **Spanish:**
-   * [fikoborquez/clean-code-php](https://github.com/fikoborquez/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :brazil: **Portuguese:**
-   * [fabioars/clean-code-php](https://github.com/fabioars/clean-code-php)
-   * [jeanjar/clean-code-php](https://github.com/jeanjar/clean-code-php/tree/pt-br)
+   * [yukikenzo/clean-php](https://github.com/fabioyukikenzoars/clean-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php/tree/pt-br)
 * :thailand: **Thai:**
-   * [panuwizzle/clean-code-php](https://github.com/panuwizzle/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :fr: **French:**
-   * [errorname/clean-code-php](https://github.com/errorname/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :vietnam: **Vietnamese:**
-   * [viethuongdev/clean-code-php](https://github.com/viethuongdev/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :kr: **Korean:**
-   * [yujineeee/clean-code-php](https://github.com/yujineeee/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :tr: **Turkish:**
-   * [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :iran: **Persian:**
-   * [amirshnll/clean-code-php](https://github.com/amirshnll/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :bangladesh: **Bangla:**
-   * [nayeemdev/clean-code-php](https://github.com/nayeemdev/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :egypt: **Arabic:**
-   * [ahmedalmory/clean-code-php](https://github.com/ahmedalmory/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 * :jp: **Japanese:**
-   * [hayato07/clean-code-php](https://github.com/hayato07/clean-code-php)
+   * [yukikenzo/clean-php](https://github.com/yukikenzo/clean-php)
 
 **[⬆ back to top](#table-of-contents)**
